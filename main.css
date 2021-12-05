@@ -1,0 +1,176 @@
+.rectangle {
+  border: 3px solid black;
+  border-radius: 20px;
+  position: absolute;
+}
+
+#body {
+  background-color: #25ae9e;
+  height: 500px;
+  width: 350px;
+  top: 50px;
+  left: 400px;
+}
+
+#face {
+  background-color: #baddc9;
+  height: 200px;
+  width: 300px;
+  top: 80px;
+  left: 425px;
+}
+
+#floppydisk {
+  background-color: #025037;
+  height: 15px;
+  width: 170px;
+  top: 320px;
+  left: 435px;
+  border-radius: 4px;
+}
+
+#small1 {
+  background-color: #01477a;
+  height: 7px;
+  width: 40px;
+  top: 479px;
+  left: 450px;
+}
+
+#small2 {
+  background-color: #01477a;
+  height: 7px;
+  width: 40px;
+  top: 479px;
+  left: 500px;
+}
+
+#small2 {
+  background-color: #01477a;
+  height: 7px;
+  width: 40px;
+  top: 479px;
+  left: 500px;
+}
+
+#blackhor {
+  background-color: black;
+  height: 70px;
+  width: 30px;
+  top: 390px;
+  left: 481px;
+  border-radius: 5px;
+}
+
+#blackvert {
+  background-color: black;
+  height: 70px;
+  width: 30px;
+  top: 390px;
+  left: 481px;
+  border-radius: 5px;
+  transform: rotate(90deg);
+}
+
+#yellowhor {
+  background-color: #fccf50;
+  height: 70px;
+  width: 30px;
+  top: 393px;
+  left: 484px;
+  border-radius: 3px;
+  border: none;
+  transform: rotate(90deg);
+}
+
+#yellowvert {
+  background-color: #fccf50;
+  height: 70px;
+  width: 30px;
+  top: 393px;
+  left: 484px;
+  border-radius: 3px;
+  border: none;
+}
+
+.circles {
+  border-radius: 50%;
+  position: absolute;
+}
+
+#lefteye {
+  background-color: #040403;
+  height: 17px;
+  width: 17px;
+  top: 150px;
+  left: 500px;
+}
+
+#righteye {
+  background-color: #040403;
+  height: 17px;
+  width: 17px;
+  top: 150px;
+  left: 640px;
+}
+
+#smallblue {
+  background-color: #014879;
+  height: 17px;
+  width: 17px;
+  top: 320px;
+  left: 670px;
+  border: 2px solid black;
+}
+
+#bigred {
+  background-color: #ec3b45;
+  height: 75px;
+  width: 75px;
+  top: 436px;
+  left: 600px;
+  border: 2px solid black;
+}
+
+#medgreen {
+  background-color: #6ebb64;
+  height: 35px;
+  width: 35px;
+  top: 400px;
+  left: 670px;
+  border: 2px solid black;
+}
+
+.triangle {
+  width: 0;
+  height: 0;
+  position: absolute;
+}
+
+#large {
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  border-bottom: 44px solid black;
+  top: 376px;
+  left: 600px;
+}
+
+#small {
+  border-left: 22px solid transparent;
+  border-right: 22px solid transparent;
+  border-bottom: 39px solid #44c0dc;
+  top: 379px;
+  left: 603px;
+}
+
+#mouth {
+    position: absolute;
+    left: 555px;
+    width: 50px;
+    height: 50px;
+    background-color: #baddc9;
+    border-radius: 18%;
+    border-bottom: solid 3px #000;
+    bottom: 30px;
+    top: 175px;
+}
