@@ -1,3 +1,8 @@
+body {
+    background-image: url("./wp3394814.webp");
+    background-size: 100%;
+}
+
 .rectangle {
   border: 3px solid black;
   border-radius: 20px;
